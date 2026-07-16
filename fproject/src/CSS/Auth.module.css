@@ -1,0 +1,50 @@
+.authCard {
+  max-width: 50%;
+  margin: 50px auto;
+  border-radius: 50px;
+  border: none;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  background: #fff;
+}
+
+.authHeader {
+  font-size: 1.5rem;
+  font-weight: 600;
+  text-align: center;
+  background: linear-gradient(135deg, #CA6674, #ff2e63);
+  color: #fff;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  padding: 1rem;
+}
+
+.btnBinky {
+  background: linear-gradient(135deg, #CA6674, #ff2e63);
+  border: none;
+  color: #fff;
+  font-weight: 600;
+  padding: 0.75rem;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.btnBinky:hover {
+  background: linear-gradient(135deg, #CA6674, #D64064);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(255, 42, 99, 0.4);
+}
+
+.smallLink {
+  display: block;
+  margin-top: 15px;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #ff2e63;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.smallLink:hover {
+  color: #D64064;
+  text-decoration: underline;
+}

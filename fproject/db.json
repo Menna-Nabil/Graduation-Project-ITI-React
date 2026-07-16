@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fName": "Test",
+      "lName": "User",
+      "email": "test@example.com",
+      "password": "123456"
+    },
+    {
+      "id": "465f",
+      "fName": "mahmoud",
+      "lName": "mohamed",
+      "email": "mahmoud33@gmail.com",
+      "password": "12369"
+    },
+    {
+      "id": "f02a",
+      "fName": "mariam",
+      "lName": "ahmed",
+      "email": "maremahmmed67@gmail.com",
+      "password": "123698\"\""
+    },
+    {
+      "fName": "Menna",
+      "lName": "Nabil",
+      "email": "mennanabil20@gmail.com",
+      "password": "m2e3n4n5a6",
+      "id": "ezgv_t2m59U"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
